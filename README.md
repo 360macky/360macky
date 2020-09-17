@@ -4,7 +4,7 @@ My name is Marcelo Arias, I'm a JavaScript software creator.
 
 - 🎓 I'm Software Development student at technology institute SENATI.
 - 🔭 I’m currently working on *Neural Networks*.
-- 🪐 I’m looking for help with *NextJS*.
+- 🪐 I’m looking for help with *Web-Assembly*.
 - 💬 Ask me about *JavaScript* or *Python*.
 - 🎬 Creating Computer Science Videos in a YouTube Channel: **[Arte de programar](https://www.youtube.com/channel/UCUkT_iLP5NU10Gk-zBu3IeA/)**.
 
