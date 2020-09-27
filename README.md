@@ -3,6 +3,7 @@
 My name is Marcelo Arias, I'm a JavaScript software creator.
 
 - 🎓 I'm Software Development student at technology institute SENATI.
+- 🔬 Web developer and creator of graphical interface algorithms at **Filosinapsis**.
 - 🔭 I’m currently working on *Neural Networks*.
 - 🪐 I’m looking for help with *Web-Assembly*.
 - 💬 Ask me about *JavaScript* or *Python*.
