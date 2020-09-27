@@ -6,6 +6,7 @@ My name is Marcelo Arias, I'm a JavaScript software creator.
 - 🔭 I’m currently working on *Neural Networks*.
 - 🪐 I’m looking for help with *Web-Assembly*.
 - 💬 Ask me about *JavaScript* or *Python*.
+- 📡 Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)**
 - 🎬 Creating Computer Science Videos in a YouTube Channel: **[Arte de programar](https://www.youtube.com/channel/UCUkT_iLP5NU10Gk-zBu3IeA/)**.
 
 📫 You can reach me with the links below (Use `Ctrl+Click` for open in a new window).
