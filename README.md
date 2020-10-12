@@ -5,7 +5,7 @@ My name is Marcelo Arias, I'm a JavaScript software creator.
 - 🎓 I'm Software Development student at technology institute SENATI.
 - 🔬 Web developer and creator of graphical interface algorithms at non-profit organization **[Filosinapsis](https://github.com/Filosinapsis/)**.
 - 🤖 Working with an amazing team as a programmer at software development company **[Fractal](https://www.linkedin.com/in/celer-s-a-c-98b270a9/)**
-- 🔭 I’m currently learning more about *Neural Networks* as a scolarship student at **[ML-Class.org](http://ml-class.org/)**
+- 🔭 I’m currently learning more about *Neural Networks* as a scolarship student at **[ML-Class.org](http://ml-class.org/)**.
 - 🪐 I’m looking for help with *Web-Assembly*.
 - 💬 Ask me about *JavaScript* or *Python*.
 - 📡 Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)**
