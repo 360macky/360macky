@@ -19,3 +19,4 @@ My name is Marcelo Arias, I'm a JavaScript software creator.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-arias/)
 [![MarceloArias.com](https://img.shields.io/badge/-MarceloArias.com-3f50b5?style=for-the-badge&logo=atom&logoColor=white)](https://www.marceloarias.com/)
 [![Arte de programar YouTube Channel](https://img.shields.io/badge/-Arte%20de%20programar-e4002b?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUkT_iLP5NU10Gk-zBu3IeA/)
+[![Platzi](https://img.shields.io/badge/-Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/360macky/)
