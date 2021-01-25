@@ -9,7 +9,7 @@ My name is Marcelo Arias, I'm a JavaScript software creator.
 - 🪐 I’m looking for help with *Web-Assembly*.
 - 💬 Ask me about *JavaScript* or *Python*.
 - 📡 Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)**
-- 🎬 Creating Computer Science Videos in a YouTube Channel: **[Arte de programar](https://www.youtube.com/channel/UCUkT_iLP5NU10Gk-zBu3IeA/)**.
+- 🎬 Creating Computer Science Videos in a YouTube Channel: **[Arte de programar](https://www.youtube.com/ArteDeProgramar)**.
 
 📫 You can reach me with the links below (Use `Ctrl+Click` for open in a new window).
 
@@ -19,4 +19,4 @@ My name is Marcelo Arias, I'm a JavaScript software creator.
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Marcelo_Arias6)
 [![SoundCloud](https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/360macky)
 [![MarceloArias.com](https://img.shields.io/badge/-MarceloArias.com-3f50b5?style=for-the-badge&logo=atom&logoColor=white)](https://www.marceloarias.com/)
-[![Arte de programar YouTube Channel](https://img.shields.io/badge/-Arte%20de%20programar-e4002b?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/channel/UCUkT_iLP5NU10Gk-zBu3IeA/)
+[![Arte de programar YouTube Channel](https://img.shields.io/badge/-Arte%20de%20programar-e4002b?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/ArteDeProgramar)
