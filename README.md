@@ -12,6 +12,7 @@ My name is Marcelo Arias, I'm a JavaScript software creator.
 - 💬 Ask me about *JavaScript* or *Python*.
 - 📡 Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)**
 - 🎬 Creating Computer Science Videos in a YouTube Channel: **[Arte de programar](https://www.youtube.com/ArteDeProgramar)**.
+- 🚀 Founder and sole developer at **[Qaztup](https://qaztup.me/)**, a social network to share 360-words ideas.
 
 📫 You can reach me with the links below (Use `Ctrl+Click` for open in a new window).
 
