@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Marcelo Arias, I'm a JavaScript software creator.
+My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript software creator.
 
 - 🎓 I'm Software Development student at technology institute SENATI.
 - 🔬 Web developer and creator of graphical interface algorithms at non-profit organization **[Filosinapsis](https://github.com/Filosinapsis/)**.
@@ -10,7 +10,7 @@ My name is Marcelo Arias, I'm a JavaScript software creator.
 - 🎮 Playing with the private version of the **[OpenAI API](https://beta.openai.com/)**.
 - 🪐 I’m looking for help with *Web-Assembly*.
 - 💬 Ask me about *JavaScript* or *Python*.
-- 📡 Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)**
+- 📡 Check my portfolio at **[Portfolio.MarceloArias.com](https://portfolio.marceloarias.com/)**
 - 🎬 Creating Computer Science Videos in a YouTube Channel: **[Arte de programar](https://www.youtube.com/ArteDeProgramar)**.
 - 🚀 Founder and sole developer at **[Qaztup](https://qaztup.me/)**, a social network to share 360-words ideas.
 
@@ -22,5 +22,5 @@ My name is Marcelo Arias, I'm a JavaScript software creator.
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Marcelo_Arias6)
 [![SoundCloud](https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/360macky)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/360macky)
-[![MarceloArias.com](https://img.shields.io/badge/-MarceloArias.com-3f50b5?style=for-the-badge&logo=atom&logoColor=white)](https://www.marceloarias.com/)
+[![MarceloArias.com](https://img.shields.io/badge/-MarceloArias.com-425FC7?style=for-the-badge&logo=atom&logoColor=white)](https://www.marceloarias.com/)
 [![Arte de programar YouTube Channel](https://img.shields.io/badge/-Arte%20de%20programar-e4002b?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/ArteDeProgramar)
