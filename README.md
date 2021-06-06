@@ -19,6 +19,7 @@ My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript software 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.marcelo.as@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-arias/)
 [![Platzi](https://img.shields.io/badge/-Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/360macky/)
+[![Medium](https://img.shields.io/badge/-Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@360macky)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Marcelo_Arias6)
 [![SoundCloud](https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/360macky)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/360macky)
