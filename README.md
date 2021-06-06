@@ -6,9 +6,11 @@ My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript software 
 - 🔬 Web developer and creator of graphical interface algorithms at non-profit organization **[Filosinapsis](https://github.com/Filosinapsis/)**.
 - 🤖 Working with an amazing team as a programmer at software development company **[Fractal](https://www.linkedin.com/in/celer-s-a-c-98b270a9/)**.
 - 🧠 Python Developer Volunteer of **[Data Science Research Peru](https://www.datascience.pe/)**.
-- 🔭 I’m currently learning more about *Neural Networks* as a scolarship student at **[ML-Class.org](http://ml-class.org/)**.
+- 🔭 I'm currently learning more about *Neural Networks* as a scolarship student at **[ML-Class.org](http://ml-class.org/)**.
+- ✍ I write my thoughts, ideas and reflections on my **[Medium blog](https://medium.com/@360macky)**.
+- 🎹 I make some single melody compositions (like soundtracks) available on my **[SoundCloud](https://soundcloud.com/360macky)**.
 - 🎮 Playing with the private version of the **[OpenAI API](https://beta.openai.com/)**.
-- 🪐 I’m looking for help with *Web-Assembly*.
+- 🪐 I'm looking for help with *Web-Assembly*.
 - 💬 Ask me about *JavaScript* or *Python*.
 - 📡 Check my portfolio at **[Portfolio.MarceloArias.com](https://portfolio.marceloarias.com/)**
 - 🎬 Creating Computer Science Videos in a YouTube Channel: **[Arte de programar](https://www.youtube.com/ArteDeProgramar)**.
