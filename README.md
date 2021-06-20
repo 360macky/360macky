@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript software creator.
+My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python software creator.
 
 - 🎓 I'm Software Development student at technology institute SENATI.
 - 🔬 Web developer and creator of graphical interface algorithms at non-profit organization **[Filosinapsis](https://github.com/Filosinapsis/)**.
