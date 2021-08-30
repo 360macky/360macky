@@ -3,6 +3,7 @@
 My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python software creator.
 
 - 🎓 I'm Software Development student at technology institute SENATI.
+- 💚 I'm Computer Science teacher at **[Platzi](https://platzi.com/)**.
 - 🦄 FrontEnd Engineer, with a [talented and fantastic team](https://www.linkedin.com/company/bitorical/people/), at **[Bitorical](https://www.linkedin.com/company/bitorical/)**.
 - 🔬 Web developer and creator of graphical interface algorithms at non-profit organization **[Filosinapsis](https://github.com/Filosinapsis/)**.
 - 🤖 Former programmer, with an amazing team, at software development company **[Fractal](https://www.linkedin.com/in/celer-s-a-c-98b270a9/)**.
