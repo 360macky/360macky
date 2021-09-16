@@ -10,6 +10,7 @@ My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python so
 - 🧠 Python Developer Volunteer of **[Data Science Research Peru](https://www.datascience.pe/)**.
 - 🔭 I'm currently learning more about *Neural Networks* as a scolarship student at **[ML-Class.org](http://ml-class.org/)**.
 - ✍ I write my thoughts, ideas and reflections on my **[Medium blog](https://medium.com/@360macky)**.
+- 👨‍🎤 I'm speaker at **[Data Science Research Peru](https://www.datascience.pe/)** teaching [SciKit Learn](https://scikit-learn.org/).
 - 🎹 I make some single melody compositions (like soundtracks) available on my **[SoundCloud](https://soundcloud.com/360macky)**.
 - 🎮 Playing with the private version of the **[OpenAI API](https://beta.openai.com/)**.
 - 🪐 I'm looking for help with *Web-Assembly*.
