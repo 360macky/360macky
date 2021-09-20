@@ -21,7 +21,7 @@ My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python so
 
 📫 You can reach me with the links below (Use `Ctrl+Click` for open in a new window).
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mail.marcelo.as@gmail.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@marceloarias.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-arias/)
 [![Platzi](https://img.shields.io/badge/-Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/360macky/)
 [![Medium](https://img.shields.io/badge/-Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@360macky)
