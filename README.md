@@ -7,7 +7,7 @@ My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python so
 - 🦄 FrontEnd Engineer, with a [talented and fantastic team](https://www.linkedin.com/company/bitorical/people/), at **[Bitorical](https://www.linkedin.com/company/bitorical/)**.
 - 🔬 Web developer and creator of graphical interface algorithms at non-profit organization **[Filosinapsis](https://github.com/Filosinapsis/)**.
 - 🤖 Former programmer, with an amazing team, at software development company **[Fractal](https://www.linkedin.com/in/celer-s-a-c-98b270a9/)**.
-- 🧠 Python Developer Volunteer of **[Data Science Research Peru](https://www.datascience.pe/)**.
+- 🧠 Python Developer Volunteer and speaker of **[Data Science Research Peru](https://www.datascience.pe/)**.
 - 🔭 I'm currently learning more about *Neural Networks* as a scolarship student at **[ML-Class.org](http://ml-class.org/)**.
 - ✍ I write my thoughts, ideas and reflections on my **[Medium blog](https://medium.com/@360macky)**.
 - 👨‍🎤 I'm speaker at **[Data Science Research Peru](https://www.datascience.pe/)** teaching [SciKit Learn](https://scikit-learn.org/).
