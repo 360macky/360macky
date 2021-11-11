@@ -29,5 +29,8 @@ My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python so
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/360macky)
 [![Instagram](https://img.shields.io/badge/-Instagram-c13584?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/360macky/)
 [![OpenAI Community Forum](https://img.shields.io/badge/-OpenAI%20Community-412991?style=for-the-badge&logo=openai&logoColor=white)](https://community.openai.com/u/360macky)
+[![Google Developer](https://img.shields.io/badge/-Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/105450756310364484515)
 [![MarceloArias.com](https://img.shields.io/badge/-MarceloArias.com-425FC7?style=for-the-badge&logo=atom&logoColor=white)](https://www.marceloarias.com/)
 [![Arte de programar YouTube Channel](https://img.shields.io/badge/-Arte%20de%20programar-e4002b?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/ArteDeProgramar)
+
+
