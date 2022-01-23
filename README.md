@@ -9,7 +9,7 @@ My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python so
 - 🤖 Former programmer, with an amazing team, at software development company **[Fractal](https://www.linkedin.com/in/celer-s-a-c-98b270a9/)**.
 - 🧠 Python Developer Volunteer and speaker of **[Data Science Research Peru](https://www.datascience.pe/)**.
 - 🔭 I'm currently learning more about *Neural Networks* as a scolarship student at **[ML-Class.org](http://ml-class.org/)**.
-- ✍ I write my thoughts, ideas and reflections on my **[Medium blog](https://medium.com/@360macky)**.
+- ✍ I write my thoughts, ideas and reflections on my Medium blog, **[Marce.log](https://medium.com/@360macky)**.
 - 🎹 I make some single melody compositions (like soundtracks) available on my **[SoundCloud](https://soundcloud.com/360macky)**.
 - 🎮 Playing with the private version of the **[OpenAI API](https://beta.openai.com/)**.
 - 🪐 I'm looking for help with *Web-Assembly*.
@@ -23,7 +23,7 @@ My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python so
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@marceloarias.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-arias/)
 [![Platzi](https://img.shields.io/badge/-Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/360macky/)
-[![Medium](https://img.shields.io/badge/-Medium-FFFFFF?style=for-the-badge&logo=medium&logoColor=black)](https://medium.com/@360macky)
+[![Marce.log](https://img.shields.io/badge/-Marce.log%20Blog-1C313A?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@360macky)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Marcelo_Arias6)
 [![SoundCloud](https://img.shields.io/badge/-SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/360macky)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/360macky)
