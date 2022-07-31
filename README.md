@@ -16,7 +16,7 @@ My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python so
 - 💬 Ask me about *JavaScript* or *Python*.
 - 📡 Check my portfolio at **[Portfolio.MarceloArias.com](https://portfolio.marceloarias.com/)**
 - 🎬 Creating Computer Science Videos in a YouTube Channel: **[Arte de programar](https://www.youtube.com/ArteDeProgramar)**.
-- 🚀 Founder and sole developer at **[Qaztup](https://qaztup.me/)**, a social network to share 360-words ideas.
+- 🚀 Founder and sole developer at **[Qaztup](https://qaztup.org/)**, a social network to share 360-words ideas.
 
 📫 You can reach me with the links below (Use `Ctrl+Click` for open in a new window).
 
