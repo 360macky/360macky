@@ -3,7 +3,7 @@
 My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python software creator.
 
 - 🎓 I'm Software Development graduate of the National Institute of Technology.
-- 🛰 I'm creator of [Graphem](http://github.com/360macky/graphem), a plugin for [NASA Open MCT](http://github.com/nasa/openmct) to connect GraphQL realtime data.
+- 🛰 I'm creator of **[Graphem](http://github.com/360macky/graphem)**, a plugin for [NASA Open MCT](http://github.com/nasa/openmct) to connect GraphQL realtime data.
 - 💚 I'm Computer Science teacher at **[Platzi](https://platzi.com/)**. My last course was about [Algorithmic Complexity](https://platzi.com/cursos/complejidad-js/).
 - 🦄 FrontEnd Engineer, with a [talented and fantastic team](https://www.linkedin.com/company/bitorical/people/), at **[Bitorical](https://www.linkedin.com/company/bitorical/)**.
 - 🔬 Web developer and creator of graphical interface algorithms at non-profit organization **[Filosinapsis](https://github.com/Filosinapsis/)**.
