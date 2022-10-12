@@ -15,7 +15,7 @@ My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python so
 - 🎮 Playing with the private version of the **[OpenAI API](https://beta.openai.com/)**.
 - 🪐 I'm looking for help with _Web-Assembly_.
 - 💬 Ask me about _JavaScript_ or _Python_.
-- 📡 Check my portfolio at **[Portfolio.MarceloArias.com](https://portfolio.marceloarias.com/)**
+- 📡 Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)**
 - 🎬 Creating Computer Science Videos in a YouTube Channel: **[Arte de programar](https://www.youtube.com/ArteDeProgramar)**.
 - 🚀 Founder and sole developer at **[Qaztup](https://qaztup.org/)**, a social network to share 360-words ideas.
 
