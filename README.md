@@ -16,13 +16,14 @@ My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python so
 - 🪐 I'm looking for help with _Web-Assembly_.
 - 💬 Ask me about _JavaScript_ or _Python_.
 - 📖 I'm currently reading **Learning TensorFlow.js**.
-- 📡 Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)**
 - 🎬 Creating Computer Science Videos in a YouTube Channel: **[Arte de programar](https://www.youtube.com/ArteDeProgramar)**.
 - 🚀 Founder and sole developer at **[Qaztup](https://qaztup.org/)**, a social network to share 360-words ideas.
 
+Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)** or contact me at **[hello@marceloarias.com](mailto:hello@marceloarias.com)**.
+
 📫 You can reach me with the links below (Use `Ctrl+Click` for open in a new window).
 
-[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hola@marceloarias.com)
+[![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@marceloarias.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-arias/)
 [![Platzi](https://img.shields.io/badge/-Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/360macky/)
 [![Marce.log](https://img.shields.io/badge/-Marce.log%20Blog-1C313A?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@360macky)
