@@ -9,8 +9,8 @@ My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python so
 - 🔬 Web developer and creator of graphical interface algorithms at non-profit organization **[Filosinapsis](https://github.com/Filosinapsis/)**.
 - 🤖 Former programmer, with an amazing team, at software development company **[Fractal](https://www.linkedin.com/in/celer-s-a-c-98b270a9/)**.
 - 🧠 Python Developer Volunteer and speaker of **[Data Science Research Peru](https://www.datascience.pe/)**.
+- ✍ I write about web development in my newsletter **[Codebase](https://www.getrevue.co/profile/codebase)**.
 - 🔭 I'm currently learning more about _Neural Networks_ as a scolarship student at **[ML-Class.org](http://ml-class.org/)**.
-- ✍ I write my thoughts, ideas and reflections on my Medium blog, **[Marce.log](https://medium.com/@360macky)**.
 - 🎹 I make some single melody compositions (like soundtracks) available on my **[SoundCloud](https://soundcloud.com/360macky)**.
 - 🎮 Playing with the private version of the **[OpenAI API](https://beta.openai.com/)**.
 - 🪐 I'm looking for help with _Web-Assembly_.
