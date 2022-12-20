@@ -17,7 +17,6 @@ My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python so
 - 💬 Ask me about _JavaScript_ or _Python_.
 - 📖 I'm currently reading **Learning TensorFlow.js**.
 - 🎬 Creating Computer Science Animated Videos in a YouTube Channel: **[Arte de programar](https://www.youtube.com/ArteDeProgramar)** (in Spanish).
-- 🚀 Founder and sole developer at **[Qaztup](https://qaztup.org/)**, a social network to share 360-words ideas.
 
 Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)** or contact me at **[hello@marceloarias.com](mailto:hello@marceloarias.com)**.
 
@@ -34,3 +33,15 @@ Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)** or conta
 [![OpenAI Community Forum](https://img.shields.io/badge/-OpenAI%20Community-412991?style=for-the-badge&logo=openai&logoColor=white)](https://community.openai.com/u/360macky)
 [![Google Developer](https://img.shields.io/badge/-Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/105450756310364484515)
 [![MarceloArias.com](https://img.shields.io/badge/-MarceloArias.com-425FC7?style=for-the-badge&logo=atom&logoColor=white)](https://www.marceloarias.com/)
+
+🚀 Checkout my projects, findings and experiments in my YouTube Channel **Tech with Marcelo**:
+
+[![Tech with Marcelo](https://img.shields.io/badge/-Tech%20With%20Marcelo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@360macky)
+
+💬 Do you speak spanish?
+
+I have a YouTube channel dedicated to explaining Computer Science topics in Spanish. It's **Arte de programar**.
+
+I made these videos with beautiful animations, drawings and effects for Spanish-speaking community.
+
+[![Arte de programar](https://img.shields.io/badge/-Arte%20de%20programar-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@arteprogramar)
