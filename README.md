@@ -36,10 +36,7 @@ Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)** or conta
 
 🚀 Checkout my projects, findings and experiments in my YouTube Channel **Tech with Marcelo**:
 
-[![Tech with Marcelo](https://img.shields.io/badge/-Tech%20With%20Marcelo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@360macky)
-
-Add an image to 001__YT.png:
-[![Tech with Marcelo](./001__YT.png)](https://www.youtube.com/@360macky)
+[![Tech with Marcelo](https://github.com/360macky/360macky/blob/e0bea9b5a4fb0423c693d2986a6c216e17f4298c/001__YT.svg)](https://www.youtube.com/@360macky)
 
 💬 Do you speak spanish?
 
@@ -47,4 +44,4 @@ I have a YouTube channel dedicated to explaining Computer Science topics in Span
 
 I made these videos with beautiful animations, drawings and effects for Spanish-speaking community.
 
-[![Arte de programar](https://img.shields.io/badge/-Arte%20de%20programar-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@arteprogramar)
+[![Arte de programar](https://github.com/360macky/360macky/blob/e0bea9b5a4fb0423c693d2986a6c216e17f4298c/002__YT.svg)](https://www.youtube.com/@arteprogramar)
