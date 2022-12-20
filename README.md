@@ -38,6 +38,9 @@ Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)** or conta
 
 [![Tech with Marcelo](https://img.shields.io/badge/-Tech%20With%20Marcelo-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@360macky)
 
+Add an image to 001__YT.png:
+[![Tech with Marcelo](./001__YT.png)](https://www.youtube.com/@360macky)
+
 💬 Do you speak spanish?
 
 I have a YouTube channel dedicated to explaining Computer Science topics in Spanish. It's **Arte de programar**.
