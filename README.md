@@ -13,12 +13,12 @@ My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python so
 - 🔭 I'm currently learning more about _Neural Networks_ as a scolarship student at **[ML-Class.org](http://ml-class.org/)**.
 - 🎹 I make some single melody compositions (like soundtracks) available on my **[SoundCloud](https://soundcloud.com/360macky)**.
 - 🎮 Playing with the private version of the **[OpenAI API](https://beta.openai.com/)**.
-- 🪐 I'm looking for help with _Web-Assembly_.
-- 💬 Ask me about _JavaScript_ or _Python_.
 - 📖 I'm currently reading **Learning TensorFlow.js**.
 - 🎬 Creating Computer Science Animated Videos in a YouTube Channel: **[Arte de programar](https://www.youtube.com/ArteDeProgramar)** (in Spanish).
 
 Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)** or contact me at **[hello@marceloarias.com](mailto:hello@marceloarias.com)**.
+
+### Social networks, blogs, profiles...
 
 📫 You can reach me with the links below (Use `Ctrl+Click` for open in a new window).
 
@@ -34,14 +34,13 @@ Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)** or conta
 [![Google Developer](https://img.shields.io/badge/-Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/105450756310364484515)
 [![MarceloArias.com](https://img.shields.io/badge/-MarceloArias.com-425FC7?style=for-the-badge&logo=atom&logoColor=white)](https://www.marceloarias.com/)
 
-🚀 Checkout my projects, findings and experiments in my YouTube Channel **Tech with Marcelo**:
+### YouTube Channels
 
-[![Tech with Marcelo](https://github.com/360macky/360macky/blob/e0bea9b5a4fb0423c693d2986a6c216e17f4298c/001__YT.svg)](https://www.youtube.com/@360macky)
+🚀 Checkout my projects, findings and experiments in my YouTube Channel: **Tech with Marcelo**!
 
-💬 Do you speak spanish?
+<a target="_blank" href="https://youtube.com/@360macky"><img src="https://github.com/360macky/360macky/blob/05547c1d175d57633bc97f6c90fa5c6a29b722d5/001__YT.svg" width="260"></a>
 
-I have a YouTube channel dedicated to explaining Computer Science topics in Spanish. It's **Arte de programar**.
 
-I made these videos with beautiful animations, drawings and effects for Spanish-speaking community.
+💬 Do you speak Spanish? I have a channel dedicated to explaining Computer Science topics in Spanish: **Arte de programar**!
 
-[![Arte de programar](https://github.com/360macky/360macky/blob/e0bea9b5a4fb0423c693d2986a6c216e17f4298c/002__YT.svg)](https://www.youtube.com/@arteprogramar)
+<a target="_blank" href="https://youtube.com/@arteprogramar"><img src="https://github.com/360macky/360macky/blob/05547c1d175d57633bc97f6c90fa5c6a29b722d5/002__YT.svg" width="260"></a>
