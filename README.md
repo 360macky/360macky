@@ -6,15 +6,13 @@ My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python so
 - 🛰 I'm creator of **[Graphem](https://graphem.space/)**, a plugin for [NASA Open MCT](http://github.com/nasa/openmct) to connect [GraphQL realtime data](https://graphql.org/blog/subscriptions-in-graphql-and-relay/).
 - 💚 I'm Computer Science teacher at **[Platzi](https://platzi.com/)**. My last course was about [Algorithmic Complexity](https://platzi.com/cursos/complejidad-js/).
 - 🦄 Former FrontEnd Engineer, with a [talented and fantastic team](https://www.linkedin.com/company/bitorical/people/), at **[Tutoom](https://www.tutoom.com)**.
-- 🔬 Web developer and creator of graphical interface algorithms at non-profit organization **[Filosinapsis](https://github.com/Filosinapsis/)**.
 - 🤖 Former programmer, with an amazing team, at software development company **[Fractal](https://www.linkedin.com/in/celer-s-a-c-98b270a9/)**.
+- 🔬 Web developer and creator of graphical interface algorithms at non-profit organization **[Filosinapsis](https://github.com/Filosinapsis/)**.
 - 🧠 Python Developer Volunteer and speaker of **[Data Science Research Peru](https://www.datascience.pe/)**.
 - ✉️ I write about web development in my newsletter **[Codebase](https://www.getrevue.co/profile/codebase)**.
 - 🔭 I'm currently learning more about _Neural Networks_ as a scolarship student at **[ML-Class.org](http://ml-class.org/)**.
-- 🎹 I make some single melody compositions (like soundtracks) available on my **[SoundCloud](https://soundcloud.com/360macky)**.
 - 🎮 Playing with the private version of the **[OpenAI API](https://beta.openai.com/)**.
 - 📖 I'm currently reading **Learning TensorFlow.js**.
-- 🎬 Creating Computer Science Animated Videos in a YouTube Channel: **[Arte de programar](https://www.youtube.com/ArteDeProgramar)** (in Spanish).
 
 Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)** or contact me at **[hello@marceloarias.com](mailto:hello@marceloarias.com)**.
 
