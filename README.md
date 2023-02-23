@@ -11,7 +11,7 @@ My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python so
 - 🧠 Python Developer Volunteer and speaker of **[Data Science Research Peru](https://www.datascience.pe/)**.
 - ✉️ I write about web development in my newsletter **[Codebase](https://www.getrevue.co/profile/codebase)**.
 - 🔭 I'm currently learning more about _Neural Networks_ as a scolarship student at **[ML-Class.org](http://ml-class.org/)**.
-- 🎮 Playing with the private version of the **[OpenAI API](https://beta.openai.com/)**.
+- 🎮 I'm member of the **[OpenAI Developer Forum](https://community.openai.com/)**.
 - 📖 I'm currently reading **Learning TensorFlow.js**.
 
 Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)** or contact me at **[hello@marceloarias.com](mailto:hello@marceloarias.com)**.
