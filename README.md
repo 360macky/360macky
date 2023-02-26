@@ -2,6 +2,7 @@
 
 My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python software creator.
 
+- ⚡️ I have more than 7 years creating software, it feels awesome!
 - 🎓 I'm Software Development graduate of the National Institute of Technology.
 - 🛰 I'm creator of **[Graphem](https://graphem.space/)**, a plugin for [NASA Open MCT](http://github.com/nasa/openmct) to connect [GraphQL realtime data](https://graphql.org/blog/subscriptions-in-graphql-and-relay/).
 - 💚 I'm Computer Science teacher at **[Platzi](https://platzi.com/)**. My last course was about [Algorithmic Complexity](https://platzi.com/cursos/complejidad-js/).
