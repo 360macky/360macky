@@ -6,7 +6,7 @@ My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python so
 - 🎓 I'm Software Development graduate of the National Institute of Technology.
 - 🛰 I'm creator of **[Graphem](https://graphem.space/)**, a plugin for [NASA Open MCT](http://github.com/nasa/openmct) to connect [GraphQL realtime data](https://graphql.org/blog/subscriptions-in-graphql-and-relay/).
 - 💚 I'm Computer Science teacher at **[Platzi](https://platzi.com/)**. My last course was about [Algorithmic Complexity](https://platzi.com/cursos/complejidad-js/).
-- 🪐 I'm moderator of **[DEV](https://dev.to)**, the social network for software developers.
+- 🪐 I'm moderator of **[DEV](https://dev.to)**, the largest social network for software developers.
 - 🦄 Former FrontEnd Engineer, with a [talented and fantastic team](https://www.linkedin.com/company/bitorical/people/), at **[Tutoom](https://www.tutoom.com)**.
 - 🤖 Former programmer, with an amazing team, at software development company **[Fractal](https://www.linkedin.com/in/celer-s-a-c-98b270a9/)**.
 - 🔬 Web developer and creator of graphical interface algorithms at non-profit organization **[Filosinapsis](https://github.com/Filosinapsis/)**.
