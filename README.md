@@ -24,6 +24,7 @@ Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)** or conta
 
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@marceloarias.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-arias/)
+[![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@360macky)
 [![Codebase](https://img.shields.io/badge/-Codebase%20Newsletter-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://codebase.substack.com)
 [![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Marcelo_Arias6)
 [![Platzi](https://img.shields.io/badge/-Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/360macky/)
