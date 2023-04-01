@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is [Marcelo Arias](https://marceloarias.com), I'm a JavaScript/Python software creator.
+My name is [Marcelo Arias](https://marceloarias.com), I'm a independent software creator.
 
 - ⚡️ I have more than 7 years creating software.
 - 🎓 I'm Software Development graduate of the National Institute of Technology.
