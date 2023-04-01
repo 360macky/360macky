@@ -34,22 +34,6 @@ Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)** or conta
 <a href="https://news.ycombinator.com/user?id=360macky"><img src="https://img.shields.io/badge/-HackerNews-FF4500?style=for-the-badge&logo=ycombinator&logoColor=white" alt="HackerNews" style="border-radius: 10px"></a>
 <a href="https://community.openai.com/u/360macky"><img src="https://img.shields.io/badge/-OpenAI%20Community-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Community Forum" style="border-radius: 10px"></a>
 <a href="https://developers.google.com/profile/u/105450756310364484515"><img src="https://img.shields.io/badge/-Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer" style="border-radius: 10px"></a>
-<a href="https://www.marceloarias.com/"><img src="https://img.shields.io/badge/-MarceloArias.com-425FC7?style=for-the-badge&logo=atom&logoColor=white" alt="MarceloArias.com" style="border-radius: 10px"></a>
-
-
-<!-- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hello@marceloarias.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcelo-arias/)
-[![Mastodon](https://img.shields.io/badge/-Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@360macky)
-[![Codebase](https://img.shields.io/badge/-Codebase-FF6719?style=for-the-badge&logo=substack&logoColor=white)](https://codebase.substack.com)
-[![ResearchGate](https://img.shields.io/badge/-ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/profile/Marcelo_Arias6)
-[![Platzi](https://img.shields.io/badge/-Platzi-98CA3F?style=for-the-badge&logo=platzi&logoColor=white)](https://platzi.com/p/360macky/)
-[![Reddit](https://img.shields.io/badge/-Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/360macky)
-[![Dev.to](https://img.shields.io/badge/-DEV-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/360macky)
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/360macky)
-[![HackerNews](https://img.shields.io/badge/-HackerNews-FF4500?style=for-the-badge&logo=ycombinator&logoColor=white)](https://news.ycombinator.com/user?id=360macky)
-[![OpenAI Community Forum](https://img.shields.io/badge/-OpenAI%20Community-412991?style=for-the-badge&logo=openai&logoColor=white)](https://community.openai.com/u/360macky)
-[![Google Developer](https://img.shields.io/badge/-Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/105450756310364484515)
-[![MarceloArias.com](https://img.shields.io/badge/-MarceloArias.com-425FC7?style=for-the-badge&logo=atom&logoColor=white)](https://www.marceloarias.com/) -->
 
 ### YouTube Channels
 
