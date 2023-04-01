@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is [Marcelo Arias](https://marceloarias.com), I'm a independent software creator.
+My name is [Marcelo Arias](https://marceloarias.com), I'm an independent software creator.
 
 - ⚡️ I have more than 7 years creating software.
 - 🎓 I'm Software Development graduate of the National Institute of Technology.
@@ -37,6 +37,5 @@ Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)** or conta
 
 ### YouTube Channels
 
-- [Tech with Marcelo](https://youtube.com/@360macky) - Projects, findings and experiments about Tech.
-- [Arte de programar](https://youtube.com/@arteprogramar) - Computer Science topics explained with animations and illustrations.
-
+- [🚀 Tech with Marcelo](https://youtube.com/@360macky) - Projects, findings and experiments about Tech.
+- [🎨 Arte de programar](https://youtube.com/@arteprogramar) - Computer Science topics explained with animations and illustrations.
