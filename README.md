@@ -22,6 +22,7 @@ Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)** or conta
 
 📫 You can reach me with the links below (Use `Ctrl+Click` for open in a new window).
 
+<div>
 <a href="mailto:hello@marceloarias.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 10px"></a>
 <a href="https://www.linkedin.com/in/marcelo-arias/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px"></a>
 <a href="https://mastodon.social/@360macky"><img src="https://img.shields.io/badge/-Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" style="border-radius: 10px"></a>
@@ -34,6 +35,7 @@ Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)** or conta
 <a href="https://news.ycombinator.com/user?id=360macky"><img src="https://img.shields.io/badge/-HackerNews-FF4500?style=for-the-badge&logo=ycombinator&logoColor=white" alt="HackerNews" style="border-radius: 10px"></a>
 <a href="https://community.openai.com/u/360macky"><img src="https://img.shields.io/badge/-OpenAI%20Community-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Community Forum" style="border-radius: 10px"></a>
 <a href="https://developers.google.com/profile/u/105450756310364484515"><img src="https://img.shields.io/badge/-Google%20Developer-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Developer" style="border-radius: 10px"></a>
+<a href="https://hackernoon.com/u/360macky"><img src="https://img.shields.io/badge/-HackerNoon-black?style=for-the-badge&logo=hackernoon&logoColor=white" alt="HackerNoon" style="border-radius: 10px"></a>
 
 ### YouTube Channels
 
