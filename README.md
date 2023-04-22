@@ -22,6 +22,7 @@ Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)** or conta
 📫 You can reach me with the links below (Use `Ctrl+Click` for open in a new window).
 
 <div>
+  
 <a href="mailto:hello@marceloarias.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 10px"></a>
 <a href="https://www.linkedin.com/in/marcelo-arias/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 10px"></a>
 <a href="https://mastodon.social/@360macky"><img src="https://img.shields.io/badge/-Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" alt="Mastodon" style="border-radius: 10px"></a>
