@@ -15,7 +15,7 @@ I'm [Marcelo Arias](https://marceloarias.com), an independent software creator.
 - 🔭 I'm currently learning more about _Neural Networks_ as a scolarship student at **[ML-Class.org](http://ml-class.org/)**.
 - 🎮 I'm member of the **[OpenAI Developer Forum](https://community.openai.com/)** and Beta Tester of [GPT series models](https://openai.com/blog/chatgpt).
 
-Check my portfolio at **[MarceloArias.com](https://marceloarias.com/)** or contact me at **[hello@marceloarias.com](mailto:hello@marceloarias.com)**.
+Check my website at **[MarceloArias.com](https://marceloarias.com/)** or contact me at **[hello@marceloarias.com](mailto:hello@marceloarias.com)**.
 
 ### Social networks, blogs, profiles...
 
