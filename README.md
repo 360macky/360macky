@@ -10,7 +10,7 @@ I'm [Marcelo Arias](https://marceloarias.com), an independent software creator.
 - 🔬 Web developer and creator of graphical interface algorithms at non-profit organization **[Filosinapsis](https://github.com/Filosinapsis/)**.
 - 🧠 Python Developer Volunteer and speaker of **[Data Science Research Peru](https://www.datascience.pe/)**.
 - ✉️ I write about web development in my newsletter **[Codebase](https://www.getrevue.co/profile/codebase)**.
-- 🔭 I'm currently learning more about _Neural Networks_ as a scolarship student at **[ML-Class.org](http://ml-class.org/)**.
+- 🔭 I'm currently experimenting in **Large Language Models**.
 - 🎮 I'm member of the **[OpenAI Developer Forum](https://community.openai.com/)** and Beta Tester of [GPT series models](https://openai.com/blog/chatgpt).
 
 Check my website at **[MarceloArias.com](https://marceloarias.com/)** or contact me at **[hello@marceloarias.com](mailto:hello@marceloarias.com)**.
