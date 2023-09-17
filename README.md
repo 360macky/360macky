@@ -37,5 +37,4 @@ Check my website at **[MarceloArias.com](https://marceloarias.com/)** or contact
 
 ### YouTube Channels
 
-- [🚀 Tech with Marcelo](https://youtube.com/@360macky) - Projects, findings and experiments about Tech.
 - [🎨 Arte de programar](https://youtube.com/@arteprogramar) - Computer Science topics explained with animations and illustrations.
