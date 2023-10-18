@@ -2,8 +2,9 @@
 
 I'm [Marcelo Arias](https://marceloarias.com), an independent software creator.
 
-- ⚡️ I have more than 7 years creating software.
-- 🎓 I'm Software Development graduate of the National Institute of Technology.
+- ⚡️ I have 8 years creating software.
+- 🏢 My software studio is **[Astronware LLC](https://astronware.com)**.
+- 🎓 I have a degree in **Software Development** from the **National Institute of Technology**.
 - 🛰 I'm creator of **[Graphem](https://graphem.space/)**, a plugin for [NASA Open MCT](http://github.com/nasa/openmct) to connect [GraphQL realtime data](https://graphql.org/blog/subscriptions-in-graphql-and-relay/).
 - 💚 I'm Computer Science teacher at **[Platzi](https://platzi.com/)**. My last course was about [Algorithmic Complexity](https://platzi.com/cursos/complejidad-js/).
 - 🪐 I'm moderator of **[DEV](https://dev.to)**, the largest social network for software developers.
