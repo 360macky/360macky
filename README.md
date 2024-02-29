@@ -38,4 +38,4 @@ Check my website at **[MarceloArias.com](https://marceloarias.com/)** or contact
 
 ### YouTube Channels
 
-- [🎨 Arte de programar](https://youtube.com/@arteprogramar) - Computer Science topics explained with animations and illustrations.
+- [🎨 Arte de programar](https://artedeprogramar.org/) - Computer Science topics explained with animations and illustrations.
