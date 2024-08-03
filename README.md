@@ -2,8 +2,6 @@
 
 I'm [Marcelo Arias](https://marceloarias.com), an independent software creator.
 
-> Hey! I'm looking for sponsors at Dreamify.art, the free AI image generator
-
 - ⚡️ I have 9 years creating software.
 - 🏢 My software studio is **[The Astronomical Software Company](https://astronware.com)**.
 - 🎓 I have a degree in **Software Development** from the **National Institute of Technology**.
